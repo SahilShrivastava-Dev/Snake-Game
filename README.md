@@ -11,3 +11,11 @@ libraries like Turtle , Pandas , freegames installed
 
 # install and Run Using Gitbash or CMD
 
+git clone https://github.com/SahilShrivastava-Dev/Snake-Game
+
+cd Snake-Game
+
+pip3 install -r requirements.txt
+
+python3 main.py
+
